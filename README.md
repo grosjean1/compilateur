@@ -1,2 +1,3 @@
 # compilateur
-fibonacci(n) dans fibmain
+main file: build
++fibonacci(n) dans fib.main
